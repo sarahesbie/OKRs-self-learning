@@ -463,7 +463,7 @@ Questions to ask at the end of your interview:
 - [I’ve read thousands of resumes. Most of them suck. Yours doesn’t have to.](https://medium.com/@emeyerson/ive-read-thousands-of-resumes-most-of-them-suck-yours-doesn-t-have-to-ab6107fa8ace)
 - [A Software Engineer’s One-Page Portfolio](https://medium.com/@cgroom/a-software-engineers-one-page-portfolio-4f85ab8a20d1)
 - [Do you have an awesome cover letter?](https://www.askamanager.org/2012/06/do-you-have-an-awesome-cover-letter.html) -->
-
+<!--
 ## Job Search
 
 Apprenticeships:
@@ -518,7 +518,7 @@ Talk to real people, find recruiter emails:
 - [Twitter](https://twitter.com/sophia_wyl)
 - [Website](http://sophiali.dev/)
 - [GitHub](https://github.com/sophi-li)
-- [Dev.to](https://dev.to/sophia_wyl)
+- [Dev.to](https://dev.to/sophia_wyl) -->
 
 ## Acknowledgments
 
