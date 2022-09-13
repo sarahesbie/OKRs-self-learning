@@ -1,8 +1,8 @@
-# OKRs for Self Learning
+# OKRs for Self Learning in Software Development and Engineering
 
-[Click here to see a template for OKRs.](https://docs.google.com/spreadsheets/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit#gid=1028453904)
+[OKRs spreadsheet](https://docs.google.com/spreadsheets/d/1HAFmN-UvrFHBYnMRrjpgCKGGjZT1sZnnWI5YfOrw0uo/edit#gid=1028453904)
 
-This GitHub repository contains a lot of reources from Sophia's self learning plan on launching a career in software engineering, Objectives and Key Results (OKRs) style.
+This GitHub repository contains resources from Sarah's self learning plan on growing a career in software engineering, Objectives and Key Results (OKRs) style.
 
 The OKRs methodology is for anyone who wants to set up an ambitious and measurable plan to achieve their goals, any goals. The resources below are for anyone who wants to explore or start a career in software engineering or software development.
 
@@ -30,7 +30,7 @@ For more information on OKRs, here's [Google's guide on OKRs](https://rework.wit
 - [Why use OKRs?](#why-use-OKRs)
 - [How to use it](#How-to-use-it)
 - [Online Curriculum](#Online-Curriculum)
-- [Paid Online Learning Resources](#Paid-Online-Learning-Resources)
+<!-- - [Paid Online Learning Resources](#Paid-Online-Learning-Resources)
 - [Free Online Learning Resources](#Free-Online-Learning-Resources)
 - [Overview of Different Fields in Software Engineering](#Overview-of-Different-Fields-in-Software-Engineering)
 - [Blogs and Articles](#Blogs-and-Articles)
@@ -51,7 +51,7 @@ For more information on OKRs, here's [Google's guide on OKRs](https://rework.wit
 - [Resumes And Cover Letters](#Resumes-And-Cover-Letters)
 - [Job Search](#job-search)
 - [Career](#Career)
-- [About Me](#about-me)
+- [About Me](#about-me) -->
 
 ## Why use OKRs?
 
@@ -75,15 +75,34 @@ Steps to determine your Objectives and Key Results:
 8. Reflect monthly and adjust OKRs as needed throughout the quarter. OKRs are not set in stone!
 9. Do a retrospective at the end of the quarter to apply learning to your next set of OKRs.
 
-## Online Curriculum
+## Online Curriculum & Certifications
 
-- [FreeCodeCamp](https://www.freecodecamp.org/)
+### Web development
+
 - [Codecademy](https://www.codecademy.com/)
-- [The Odin Project](https://www.theodinproject.com/about)
+- [The School of Code](https://learnto.codelikeagirl.com)
+- [Just JavaScript](https://justjavascript.com/)
+- [Advanced React & GraphQL](https://advancedreact.com/)
+- [JavaScript 30](https://javascript30.com/)
+- [Command Line Power User](https://commandlinepoweruser.com/)
+
+### Computer Science
+
+- [Harvard CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+
+### Cloud
+
+- [AWS Digital Training](https://aws.amazon.com/training/)
+- [AWS Skill Builder](https://explore.skillbuilder.aws/learn)
+- [AWS Certifications](https://aws.amazon.com/certification/)
+
+---
+
+<!-- BELOW TO BE REVIEWED / UPDATED
+
 
 ## Paid Online Learning Resources
 
-These are paid online resources I found monumental to my learning journey.
 
 - [Coding Interview Bootcamp Algorithms and Data Structures](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure): Udemy course by Stephen Grider. A walk through of commonly asked interview questions (Javascript)
 - [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
@@ -91,6 +110,9 @@ These are paid online resources I found monumental to my learning journey.
 - [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
 - [Pure React by Dave Ceddia](https://daveceddia.com/pure-react/)
 - [Chingu](https://www.chingu.io/): Online program that places you in a remote team to collaborate with others to build & launch real projects. Here's [what I learned from my first team project](https://dev.to/sophia_wyl/5-things-i-learned-from-coding-with-other-people-my-first-web-development-team-project-48fk).
+
+---
+
 
 ## Free Online Learning Resources
 
@@ -100,6 +122,8 @@ Web:
 
 - [How the internet works](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
 - [MDN Learn front-end web development](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [The Odin Project](https://www.theodinproject.com/about)
 
 HTML & CSS:
 
@@ -276,13 +300,6 @@ Learning React:
 - [Meetup.com](https://www.meetup.com/)
 - Find events through queries like "Women in Tech Events in SF", "Tech Event in [insert your city]", etc.
 
-## San Francisco Specific Meetups
-
-- [Write/Speak/Code](https://www.meetup.com/WriteSpeakCode-SFBay/)
-- [Coding Bootcamp Office Hours with Chloe](https://www.meetup.com/Microsoft-Reactor-San-Francisco)
-- [Women Who Code](https://www.meetup.com/Women-Who-Code-SF/)
-- [WaffleJS](https://wafflejs.com/)
-
 ## Questions for Coffee Chats
 
 Coffee chats are a great casual way to build your community, learn, and hear first-hand experiences. If you're stuck on what to ask, here are some questions to help get the conversation started:
@@ -298,37 +315,39 @@ Coffee chats are a great casual way to build your community, learn, and hear fir
 - Question about something specific to them (based off of your research about them / their company)
 - Is there anything I can support you in?
 
-## Tips 
+## Tips
+
 These are the top 10 tips for self-taught software engineers from 20+ coffee chats:
+
 1. Build projects, any projects.
-Get out of tutorial hell, especially in the early stages of your learning. Once you've built a couple of mini projects, apply your knowledge to solve a problem that's interesting to you.
+   Get out of tutorial hell, especially in the early stages of your learning. Once you've built a couple of mini projects, apply your knowledge to solve a problem that's interesting to you.
 
 2. Document your projects well.
-Recruiters and hiring managers will look at your projects. Write good documentation to help them quickly understand what you’ve built, why you built it, and how you built it. Here’s a guide on writing a thorough readme.
+   Recruiters and hiring managers will look at your projects. Write good documentation to help them quickly understand what you’ve built, why you built it, and how you built it. Here’s a guide on writing a thorough readme.
 
 3. Pair program.
-Practice collaborating with other developers, explaining your thought process out loud, and speaking technically. This will help prepare you for interviews and real world work.
+   Practice collaborating with other developers, explaining your thought process out loud, and speaking technically. This will help prepare you for interviews and real world work.
 
 4. Build a community.
-Go to local meetups and conferences to meet people in the industry who you can learn from and also learn with.
+   Go to local meetups and conferences to meet people in the industry who you can learn from and also learn with.
 
 5. Teach others.
-You learn better by teaching others. Teaching a concept, even if you're not an expert, is a great way to identify gaps in your own knowledge, test your understanding, and deepen your understanding of the topic.
+   You learn better by teaching others. Teaching a concept, even if you're not an expert, is a great way to identify gaps in your own knowledge, test your understanding, and deepen your understanding of the topic.
 
 6. Stand out.
-There is a sea of junior developers. Show your personality and how your unique perspective will bring value to the team.
+   There is a sea of junior developers. Show your personality and how your unique perspective will bring value to the team.
 
 7. Determine the right type of role for you.
-Do you need structure? Can you create structure out of chaos? Is mentorship a strong requirement for you? Can you dive right into the weeds without structured support? These are some questions to reflect on to help determine if you should look for an internship, apprenticeship, or a full-time job.
+   Do you need structure? Can you create structure out of chaos? Is mentorship a strong requirement for you? Can you dive right into the weeds without structured support? These are some questions to reflect on to help determine if you should look for an internship, apprenticeship, or a full-time job.
 
 8. Understand your "why".
-Why do you want to be a software engineer? Your answer to this question will be your North Star. Your North Star is what’s going to guide you and keep you motivated even when you face rough patches.
+   Why do you want to be a software engineer? Your answer to this question will be your North Star. Your North Star is what’s going to guide you and keep you motivated even when you face rough patches.
 
 9. Hustle!
-Being a self-taught developer can be hard. Imposter syndrome is real, but know that you can and you will move forward. You're going to go the extra mile to network, keep learning, and crush all the interviews.
+   Being a self-taught developer can be hard. Imposter syndrome is real, but know that you can and you will move forward. You're going to go the extra mile to network, keep learning, and crush all the interviews.
 
 10. Take care of your mental health.
-Mental health is important. Schedule time each week to do at least one activity that brings you joy. Don't burn out.
+    Mental health is important. Schedule time each week to do at least one activity that brings you joy. Don't burn out.
 
 ## Reading List
 
@@ -373,10 +392,6 @@ Push out of your comfort zone, get validation and/or feedback by contributing to
 - Don't binge on tutorials. Get out of tutorial hell. Make sure you get hands on practice in.
 - [5 Ways to Stay Productive as a Self-taught Developer](https://dev.to/sophia_wyl/5-ways-to-stay-productive-as-a-self-taught-developer-efc)
 - [5 Ways to Get Over Plateaus as a Self-taught Developer](https://dev.to/sophia_wyl/5-ways-to-get-over-plateaus-as-a-self-taught-developer-4kj9)
-
-## Learning Methods
-
-In your learning journey, you'll likely come across written, video, audio or other types of resources. Try out different mediums and find out which enable you to learn most effectively.
 
 ## Interview Prep Resources
 
@@ -447,7 +462,7 @@ Questions to ask at the end of your interview:
 - [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
 - [I’ve read thousands of resumes. Most of them suck. Yours doesn’t have to.](https://medium.com/@emeyerson/ive-read-thousands-of-resumes-most-of-them-suck-yours-doesn-t-have-to-ab6107fa8ace)
 - [A Software Engineer’s One-Page Portfolio](https://medium.com/@cgroom/a-software-engineers-one-page-portfolio-4f85ab8a20d1)
-- [Do you have an awesome cover letter?](https://www.askamanager.org/2012/06/do-you-have-an-awesome-cover-letter.html)
+- [Do you have an awesome cover letter?](https://www.askamanager.org/2012/06/do-you-have-an-awesome-cover-letter.html) -->
 
 ## Job Search
 
@@ -507,8 +522,6 @@ Talk to real people, find recruiter emails:
 
 ## Acknowledgments
 
-Inspiration for this repo is from Jwasham's [Coding Interview University](https://github.com/jwasham/coding-interview-university).
+Inspiration for this repo is from [Sophia's OKRs for Self Learning](https://github.com/sophi-li/OKRs-self-learning).
 
-Thank you to my friends and dev community who have continuously supported, encouraged, and inspired me throughout my journey!
-
-Michelle, Alex, Diana, Scarlett, Andy, Mimi, Cat, Eric, Rachel, Donald, William, Melissa, Jessica, Mark, Andrik, Valerie, Audrei, Dani, Kate, Rafael, Ola, Ming, Chance, Jim, Tilde, Estelle, Yanet, Lori, Angela, Pearl, Judy, Jamil, Jeffrey, Chloe, Kimberlee, Novella, Jeff, Alissa, Sandy, Tieshia, Sarah, Ben, Rahat, Matthew, Denise, Akshar, Abir, Peter, Ryan, Jacob, Dave, Robert, Radhika, Chi, Sharat, Michael, Robert, Becca, Stephen, Travis, Jamie, Veni, Amruta, Brandon, Adam, Zoya, Michal, Joe, Martin, Rez, Mark, Andrew, Elly, Brantone, Nick, Zainab, Jeremy, Greg, Alaina
+Thank you to my friends and dev community who have continuously supported, encouraged, and inspired me throughout my journey! -->
