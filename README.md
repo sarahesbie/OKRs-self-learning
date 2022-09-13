@@ -90,8 +90,9 @@ Steps to determine your Objectives and Key Results:
 
 - [Harvard CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
 
-### Cloud
+### Cloud / Devops
 
+- [AWS DevOps Learning Plan ](https://aws.amazon.com/training/learn-about/devops/)
 - [AWS Digital Training](https://aws.amazon.com/training/)
 - [AWS Skill Builder](https://explore.skillbuilder.aws/learn)
 - [AWS Certifications](https://aws.amazon.com/certification/)
